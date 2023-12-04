@@ -1,0 +1,7 @@
+openai
+spacy
+tiktoken
+request
+Pillow
+pyobj
+pytesseract
